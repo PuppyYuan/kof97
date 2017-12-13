@@ -1,0 +1,67 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "crouch",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6fe8a6e1-ed0c-4239-a31b-eb865208f3d5"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "170575d8-559b-4bc3-9bc6-2b61ccc94170"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "578d2392-7aba-44d9-b1cb-83ed3952ded1"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "8d969bdd-49dc-44d8-89a0-2348d686e62b"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "e9b33c15-19dd-4528-a743-3d92827f2d2e"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "07b1ba93-5637-472d-86ab-bcd96be38e36"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "6fe8a6e1-ed0c-4239-a31b-eb865208f3d5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.6,
+      "func": "onAnimationEnd",
+      "params": []
+    }
+  ]
+}
